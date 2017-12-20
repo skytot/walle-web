@@ -3,8 +3,9 @@
 Walle - A Deployment Tool
 =========================
 [![Build Status](https://travis-ci.org/meolu/walle-web.svg?branch=master)](https://travis-ci.org/meolu/walle-web)
-[![Packagist](https://img.shields.io/packagist/v/meolu/walle-web.svg)](https://packagist.org/packages/meolu/walle-web)
-[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+[![node](https://img.shields.io/node/v/passport.svg)]()
+[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)]()
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
 
 A web deployment tool, Easy for configuration, Fully functional, Smooth interface, Out of the box.
 support git/svn Version control system, no matter what language you are, php/java/ruby/python, just as jenkins. you can deploy the code or output to multiple servers easily by walle.
